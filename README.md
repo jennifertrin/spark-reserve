@@ -13,7 +13,7 @@ ckBTC on Internet Computer (ICP): A wrapped version of Bitcoin on the Internet C
 WBTC on Ethereum: The most popular wrapped Bitcoin token on Ethereum
 Bitcoin on Spark: Presumably a wrapped Bitcoin implementation on the Spark blockchain
 
-# Potential Strategic Benefits
+## Potential Strategic Benefits
 This approach could hypothetically offer several advantages:
 
 - **Ecosystem Diversification**: Spreading Bitcoin across multiple blockchain ecosystems reduces dependency on any single platform.
